@@ -29,11 +29,11 @@ GET /stats/leaders?category=points&season=2023-24&limit=10
 
 ## Tech Stack
 
-- **FastAPI** — API framework with automatic /docs UI
-- **SQLAlchemy** — ORM for database modeling and queries
-- **SQLite** — lightweight relational database
-- **nba_api** — pulls real player data from the official NBA stats API
-- **Python** — core language
+- **FastAPI** : API framework with automatic /docs UI
+- **SQLAlchemy** : ORM for database modeling and queries
+- **SQLite** : lightweight relational database
+- **nba_api** : pulls real player data from the official NBA stats API
+- **Python** : core language
 
 ## Setup
 
